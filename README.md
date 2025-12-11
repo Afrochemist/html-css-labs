@@ -2,10 +2,10 @@
 
 This repository contains labs for learning HTML and CSS. Below are the labs:
 
-1) Structure
+1) Structure - Basic structure of a html file
 
-2) Text Typography
+2) Text Typography - 
 
-3) List
+3) List - Providing a list of items using html tags
 
-4) Links
+4) Links - Incorporating links in the html file
